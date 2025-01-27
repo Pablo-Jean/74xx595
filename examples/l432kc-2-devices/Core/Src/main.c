@@ -142,7 +142,7 @@ int main(void)
 		  LedsArr[0] = 0x08;
 		  LedsArr[1] = 0x80;
 	  }
-	  HAL_Delay(100);
+	  HAL_Delay(50);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
