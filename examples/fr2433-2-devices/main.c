@@ -261,7 +261,7 @@ void main(void)
             }
         }
 
-        _delay_ms(250);
+        _delay_ms(100);
     }
 }
 
