@@ -17,7 +17,6 @@
 #include <assert.h>
 #include <stdbool.h>
 #include <stdlib.h>
-#include <malloc.h>
 
 #include "l74xx595_defs.h"
 
