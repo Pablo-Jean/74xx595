@@ -38,6 +38,8 @@
 //!
 //! ATTENTION: This example is based on driverlib MSP430Ware 3.80.14. You must correctly configure
 //! your Code Composer Studio/Theia with the correct SDK, it's easy, trust me!
+//! ATTENTION: In this example we using the external clock, if you xtal is not connected to MCU,
+//! You can use the REFO clock.
 //! 
 //!
 //! 		    Tested on  MSP430FR2433 
