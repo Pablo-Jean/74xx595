@@ -12,7 +12,7 @@ V1.0.0
 
 # l74xx595 Library Documentation
 
-<center><img src="imgs/74hc595.jpg"  width="250"></center>
+<center><img src="imgs/74hc595.png"  width="250"></center>
 
 This documentation describes the **74xx595** C library for controlling 74xx595 (e.g., 74HC595, 74LS595) serial-in, parallel-out shift registers. The library is hardware-agnostic and supports multiple cascaded devices, thread safety, and flexible hardware abstraction via user-supplied function pointers.
 
